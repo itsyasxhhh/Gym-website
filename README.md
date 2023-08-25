@@ -1,0 +1,1 @@
+	Designed and built a gym website using HTML and CSS, featuring interactive forms for membership inquiries and prominently displayed contact details to facilitate seamless communication between potential clients and the gym
